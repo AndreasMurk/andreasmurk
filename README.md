@@ -51,7 +51,7 @@ I'm a passionate developer who loves building innovative solutions and exploring
 
 ## 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andreasmurk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreas-murk/)
 [![Website](https://img.shields.io/badge/Website-0077B5?style=for-the-badge&logo=website&logoColor=white)](https://andreas.murk-services.online)
 
 ---
