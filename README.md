@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Andreas Murk
 
-[![GitHub followers](https://img.shields.io/github/followers/andreasmurk?label=Follow&style=social)](https://github.com/andreasmurk)
+[![GitHub followers](https://img.shields.io/github/followers/andreasmurk?label=Follow&style=social)](https://github.com/andreasmurk) ![Profile Views](https://komarev.com/ghpvc/?username=andreasmurk&style=social)
 
 I'm a passionate developer who loves building innovative solutions and exploring new technologies.
 
