@@ -43,14 +43,14 @@ I'm a passionate developer who loves building innovative solutions and exploring
 
 ## 🌱 Currently Learning
 
-- Advanced Machine Learning Techniques
-- Cloud Native Architecture
-- System Design Patterns
+- How to build Retrieval Augmented Generation Systems (RAG)
+- Building System Architectures for Cloud Native Applications
+- How to improve my TypeScript skills with Next.js and NestJS
 
 ## 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andreasmurk)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/andreasmurk)
+[![Website](https://andreas.murk-services.online)](https://andreas.murk-services.online)
 
 ---
 
